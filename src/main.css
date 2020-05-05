@@ -1,0 +1,22 @@
+.fullName
+{
+    text-align: center;
+    color: blue;
+}
+
+
+
+.photo
+{
+    display: flex;
+    justify-content:center;
+    height: 100%;
+    width: 100%;
+    
+    
+}
+
+h3
+{
+    text-align: center;
+}
