@@ -5,7 +5,7 @@ import photo from './photo.jpg'
 
 const  Photo=()=>{return(
 
-<img src={photo}  alt="photo" />
+<img className='photo' src={photo}  alt="photo profile" />
 
 )}
 

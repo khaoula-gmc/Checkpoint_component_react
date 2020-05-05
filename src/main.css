@@ -8,10 +8,10 @@
 
 .photo
 {
-    display: flex;
-    justify-content:center;
-    height: 100%;
-    width: 100%;
+    margin: 2% 25%;
+    height: 50%;
+    width: 50%;
+    border-radius: 5;
     
     
 }
